@@ -1,2 +1,2 @@
 # deno-hello-world
-Deno - A secure runtime for JavaScript and TypeScript.
+- Deno - A secure runtime for JavaScript and TypeScript.
